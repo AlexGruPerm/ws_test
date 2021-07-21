@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+    <option name="outputLimit" value="300" />
+  </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="moduleName" value="WsTest" />
+  </component>
+</project>
